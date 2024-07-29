@@ -10,7 +10,7 @@ Passo a Passo do Desenvolvimento
 
 2. Estrutura do Projeto
 
-    Organização dos Arquivos:
+    Organização dos Arquivos
         scenes/: Armazena as cenas do jogo.
         scripts/: Contém scripts em GDScript para a lógica do jogo.
         assets/: Inclui recursos gráficos e de áudio.
@@ -28,8 +28,8 @@ Descrição do Projeto
 Neste projeto, criamos um jogo no estilo de "Vampire Survivors" usando o Godot Engine. O foco foi na implementação de mecânicas de sobrevivência e combate, e o projeto foi enriquecido com assets específicos para criar uma atmosfera visualmente atraente.
 Assets Utilizados
 
-    Assets Principais: Tiny Swords by PixelFrog
-    Assets de Ritual: Particle Pack by Kenney
+Assets Principais: Tiny Swords by PixelFrog
+Assets de Ritual: Particle Pack by Kenney
 
 Passo a Passo do Desenvolvimento
 1. Configuração Inicial
@@ -67,11 +67,11 @@ Este projeto resultou em um jogo inspirado em "Vampire Survivors", aproveitando 
         Configuramos CollisionShape2D para definir as áreas de colisão.
         Usamos RigidBody2D para objetos que precisam interagir fisicamente com o ambiente.
 
-    Movimentação do Jogador:
-        Criamos um script para movimentação do jogador, utilizando a função lerp para suavizar o movimento.
+Movimentação do Jogador:
+    Criamos um script para movimentação do jogador, utilizando a função lerp para suavizar o movimento.
 
-    Interatividade:
-        Ajustamos as colisões e implementamos scripts para interações entre o jogador e os objetos.
+Interatividade:
+    Ajustamos as colisões e implementamos scripts para interações entre o jogador e os objetos.
 
 5. Testes e Debug
 
@@ -83,8 +83,8 @@ Este projeto resultou em um jogo inspirado em "Vampire Survivors", aproveitando 
 Neste projeto, criamos um jogo no estilo de "Vampire Survivors" usando o Godot Engine. O foco foi na implementação de mecânicas de sobrevivência e combate, e o projeto foi enriquecido com assets específicos para criar uma atmosfera visualmente atraente.
 Assets Utilizados
 
-    Assets Principais: Tiny Swords by PixelFrog
-    Assets de Ritual: Particle Pack by Kenney
+Assets Principais: Tiny Swords by PixelFrog
+Assets de Ritual: Particle Pack by Kenney
 
 1. Importação de Assets
 
